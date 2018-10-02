@@ -113,7 +113,7 @@ for every $k\in \{0,1\}^n$ and $x \in \{0,1\}^{\ell}$,
 $$
 D(k,E(k,x))=x \;. \label{eqvalidenc}
 $$
-We will typically write the first input (i.e., the key) to the encryption and decryption functions as a subscribt, and so write [eqvalidenc](){.eqref} as $D_k(E_k(x))=x$.
+We will typically write the first input (i.e., the key) to the encryption and decryption functions as a subscript, and so write [eqvalidenc](){.eqref} as $D_k(E_k(x))=x$.
 
 
 > _A note on notation:_ We will always use $i,j,\ell,n$ to denote natural
